@@ -6,6 +6,12 @@ Predicción de la baja de clientes de una compañía de telecomunicaciones a par
 
 **Resultado principal:** el modelo seleccionado detecta **71 de las 89 bajas del test**, con **18 bajas no detectadas y 8 falsas alarmas**.
 
+## Presentación interactiva
+
+[Acceder a la presentación en Streamlit](https://iranian-churn-salva.streamlit.app/)
+
+La presentación explica el contexto de los datos, su preparación, los modelos y técnicas utilizados, los resultados, las limitaciones y los próximos pasos. Incluye una demostración del modelo con perfiles ficticios.
+
 ## Datos y contexto
 
 El conjunto **Iranian Churn**, publicado en UCI en 2020, contiene 3.150 registros, 13 variables predictoras y una respuesta binaria: `Churn`, denominada `abandono` en el análisis (**0 = permanencia; 1 = abandono**).
